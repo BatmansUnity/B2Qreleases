@@ -3,9 +3,13 @@ title: Book2Quiz Legal
 description: Terms & Privacy for Book2Quiz
 theme: jekyll-theme-cayman
 
-# Optional: a sitemap for SEO
+# IMPORTANT for project sites:
+url: "https://batmansunity.github.io"
+baseurl: "/B2Qreleases"
+
+# Optional: a sitemap for SEO (GitHub Pages supports this)
 plugins:
   - jekyll-sitemap
 
-# Keep clean permalinks
+# Clean URLs like /privacy/
 permalink: pretty
