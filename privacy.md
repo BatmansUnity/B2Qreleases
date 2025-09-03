@@ -6,6 +6,7 @@ permalink: /privacy/
 
 _Last updated: {{ site.time | date: "%B %d, %Y" }}_
 
+## Book2Quiz
 > **Summary**
 >
 > - No account is required.  
@@ -50,7 +51,6 @@ We may update this policy to reflect changes in the app. Material changes will b
 If you have questions about privacy, please contact us using the Support page in the app.
 
 <details>
-<summary>Optional: minimal local styles (safe for GitHub Pages)</summary>
 
 <style>
   :root { color-scheme: light dark; }
