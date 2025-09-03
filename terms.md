@@ -26,7 +26,7 @@ The app, its software, design, quiz questions, and other materials are owned by 
 
 ## 4) Privacy
 
-Your use of the Service is also governed by our [Privacy Policy](/privacy/), which explains what data we collect and how we use it.
+Your use of the Service is also governed by our [Privacy Policy](/B2Qreleases/privacy/), which explains what data we collect and how we use it.
 
 ## 5) Third-Party Services
 
@@ -39,11 +39,11 @@ The Service may include links to or rely on third-party services (for example, a
 
 ## 7) Limitation of Liability
 
-To the fullest extent permitted by law, **{{ site.company | default: "Your Company/Name" }}** will not be liable for indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Service.
+To the fullest extent permitted by law, **{{ site.company | default: "Book2Quiz" }}** will not be liable for indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Service.
 
 ## 8) Indemnity
 
-You agree to indemnify and hold **{{ site.company | default: "Your Company/Name" }}** harmless from claims, damages, liabilities, and expenses arising out of your misuse of the Service or breach of these Terms.
+You agree to indemnify and hold **{{ site.company | default: "Book2Quiz" }}** harmless from claims, damages, liabilities, and expenses arising out of your misuse of the Service or breach of these Terms.
 
 ## 9) Changes to the Service or Terms
 
@@ -55,4 +55,4 @@ We may suspend or terminate access to the Service at any time if you violate the
 
 ---
 
-<small>© {{ site.time | date: "%Y" }} {{ site.company | default: "Your Company/Name" }}. All rights reserved.</small>
+<small>© {{ site.time | date: "%Y" }} {{ site.company | default: "Book2Quiz" }}. All rights reserved.</small>
