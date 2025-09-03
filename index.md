@@ -1,10 +1,7 @@
 ---
 layout: page
-title: Legal
-permalink: /
+title: Book2Quiz Legal
 ---
 
-## Book2Quiz Legal
-
-- [Privacy Policy](/privacy/)
-- [Terms & Conditions](/terms/)
+- [Privacy Policy]({{ "/privacy/" | relative_url }})
+- [Terms & Conditions]({{ "/terms/"  | relative_url }})
