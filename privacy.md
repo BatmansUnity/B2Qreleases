@@ -58,7 +58,5 @@ If you have questions about privacy, please contact us using the Support page in
   @media (prefers-color-scheme: dark) { .hr { background: #333; } }
 </style>
 
-</details>
-
 <div class="hr"></div>
 <small>Last Updated: 2025-08-29</small>
