@@ -16,7 +16,7 @@ Welcome to **Book2Quiz**. By downloading, installing, or using the app (the “S
 
 ## 2) Content & Intellectual Property
 
-The app, its software, design, quiz questions, and other materials are owned by ***Book2Quiz** or its licensors and are protected by applicable laws. No rights are granted except as needed to use the app as intended.
+The app, its software, design, quiz questions, and other materials are owned by **Book2Quiz** or its licensors and are protected by applicable laws. No rights are granted except as needed to use the app as intended.
 
 ## 3) Purchases & Subscriptions
 
