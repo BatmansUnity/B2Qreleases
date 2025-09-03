@@ -16,7 +16,7 @@ Welcome to **Book2Quiz**. By downloading, installing, or using the app (the “S
 
 ## 2) Content & Intellectual Property
 
-The app, its software, design, quiz questions, and other materials are owned by **{{ site.company | default: "Your Company/Name" }}** or its licensors and are protected by applicable laws. No rights are granted except as needed to use the app as intended.
+The app, its software, design, quiz questions, and other materials are owned by ***Book2Quiz** or its licensors and are protected by applicable laws. No rights are granted except as needed to use the app as intended.
 
 ## 3) Purchases & Subscriptions
 
@@ -39,11 +39,11 @@ The Service may include links to or rely on third-party services (for example, a
 
 ## 7) Limitation of Liability
 
-To the fullest extent permitted by law, **{{ site.company | default: "Book2Quiz" }}** will not be liable for indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Service.
+To the fullest extent permitted by law, **Book2Quiz** will not be liable for indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Service.
 
 ## 8) Indemnity
 
-You agree to indemnify and hold **{{ site.company | default: "Book2Quiz" }}** harmless from claims, damages, liabilities, and expenses arising out of your misuse of the Service or breach of these Terms.
+You agree to indemnify and hold **Book2Quiz** harmless from claims, damages, liabilities, and expenses arising out of your misuse of the Service or breach of these Terms.
 
 ## 9) Changes to the Service or Terms
 
@@ -55,4 +55,4 @@ We may suspend or terminate access to the Service at any time if you violate the
 
 ---
 
-<small>© {{ site.time | date: "%Y" }} {{ site.company | default: "Book2Quiz" }}. All rights reserved.</small>
+<small>© {{ site.time | date: "%Y" }} {{"Book2Quiz"}}. All rights reserved.</small>
