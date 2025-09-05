@@ -1,0 +1,11 @@
+[
+  {
+    "id": "pride-and-prejudice",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "version": "1.0.0",
+    "description": "A classic novel of manners.",
+    "downloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/PrideAndPrejudice.b2q",
+    "sizeBytes": 1263578
+  }
+]
