@@ -3,7 +3,7 @@
     "Id": "urn:b2q:book:romeo-and-juliet",
     "Title": "Romeo and Juliet",
     "Author": "William Shakespeare",
-    "Version": "1.0.3",
+    "Version": "1.0.4",
     "Description": "Public-domain edition packaged for Book2Quiz.",
     "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Romeo-and-Juliet-v103.b2q",
     "SizeBytes": 1234567
