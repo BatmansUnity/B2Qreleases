@@ -1,13 +1,13 @@
 [
-  {
-    "Id": "urn:b2q:book:romeo-and-juliet",
-    "Title": "Romeo and Juliet",
-    "Author": "William Shakespeare",
-    "Version": "1.0.4",
-    "Description": "Public-domain edition packaged for Book2Quiz.",
-    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Romeo-and-Juliet-v104.b2q",
-    "SizeBytes": 1234567
-    "Sha256": "492189"
-  }
+{
+  "Sha256": "fdc836812de940e5eba216feef661acc62a88748bbaaae4e3b2f5cf4ed9fad71",
+  "Version": "1.0.4",
+  "Author": "William Shakespeare",
+  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Romeo-and-Juliet-v104.b2q",
+  "Id": "urn:b2q:book:romeo-and-juliet",
+  "SizeBytes": 492189,
+  "Title": "Romeo and Juliet",
+  "Description": "Public-domain edition packaged for Book2Quiz."
+}
 ]
 
