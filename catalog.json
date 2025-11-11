@@ -8,6 +8,16 @@
   "SizeBytes": 492189,
   "Title": "Romeo and Juliet",
   "Description": "Public-domain edition packaged for Book2Quiz."
-}
+},
+  {
+  "Sha256": "18cb499513095717dbf6f394f662b66b56dd8cb71fee5cf7657937eb0ddd1b7f",
+  "Version": "1.0.0",
+  "Author": "Bram Stoker",
+  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Dracula-v1.b2q",
+  "Id": "urn:b2q:book:dracula",
+  "SizeBytes": 1123916,
+  "Title": "Dracula",
+  "Description": "Public-domain edition packaged for Book2Quiz."
+  }
 ]
 
