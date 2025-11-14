@@ -19,5 +19,14 @@
   "Title": "Dracula",
   "Description": "Public-domain edition packaged for Book2Quiz."
   }
+  {
+  "Sha256": "1ccf02d192f435cf58d344600461250d8d12e7ea54b917f85e015569952d0961",
+  "Version": "1.0.0",
+  "Author": "Jane Austen",
+  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Pride-and-Prejudice-v1.b2q",
+  "Id": "urn:b2q:book:pride-and-prejudice",
+  "SizeBytes": 24978543,
+  "Title": "Pride and Prejudice",
+  "Description": "Public-domain edition packaged for Book2Quiz."
+}
 ]
-
