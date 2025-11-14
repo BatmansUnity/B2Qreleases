@@ -1,32 +1,32 @@
 [
-{
-  "Sha256": "fdc836812de940e5eba216feef661acc62a88748bbaaae4e3b2f5cf4ed9fad71",
-  "Version": "1.0.4",
-  "Author": "William Shakespeare",
-  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Romeo-and-Juliet-v104.b2q",
-  "Id": "urn:b2q:book:romeo-and-juliet",
-  "SizeBytes": 492189,
-  "Title": "Romeo and Juliet",
-  "Description": "Public-domain edition packaged for Book2Quiz."
-},
   {
-  "Sha256": "18cb499513095717dbf6f394f662b66b56dd8cb71fee5cf7657937eb0ddd1b7f",
-  "Version": "1.0.0",
-  "Author": "Bram Stoker",
-  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Dracula-v1.b2q",
-  "Id": "urn:b2q:book:dracula",
-  "SizeBytes": 1123916,
-  "Title": "Dracula",
-  "Description": "Public-domain edition packaged for Book2Quiz."
+    "Sha256": "fdc836812de940e5eba216feef661acc62a88748bbaaae4e3b2f5cf4ed9fad71",
+    "Version": "1.0.4",
+    "Author": "William Shakespeare",
+    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Romeo-and-Juliet-v104.b2q",
+    "Id": "urn:b2q:book:romeo-and-juliet",
+    "SizeBytes": 492189,
+    "Title": "Romeo and Juliet",
+    "Description": "Public-domain edition packaged for Book2Quiz."
   },
   {
-  "Sha256": "1ccf02d192f435cf58d344600461250d8d12e7ea54b917f85e015569952d0961",
-  "Version": "1.0.0",
-  "Author": "Jane Austen",
-  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Pride-and-Prejudice-v1.b2q",
-  "Id": "urn:b2q:book:pride-and-prejudice",
-  "SizeBytes": 24978543,
-  "Title": "Pride and Prejudice",
-  "Description": "Public-domain edition packaged for Book2Quiz."
-}
+    "Sha256": "18cb499513095717dbf6f394f662b66b56dd8cb71fee5cf7657937eb0ddd1b7f",
+    "Version": "1.0.0",
+    "Author": "Bram Stoker",
+    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Dracula-v1.b2q",
+    "Id": "urn:b2q:book:dracula",
+    "SizeBytes": 1123916,
+    "Title": "Dracula",
+    "Description": "Public-domain edition packaged for Book2Quiz."
+  },
+  {
+    "Sha256": "1ccf02d192f435cf58d344600461250d8d12e7ea54b917f85e015569952d0961",
+    "Version": "1.0.0",
+    "Author": "Jane Austen",
+    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Pride-and-Prejudice-v1.b2q",
+    "Id": "urn:b2q:book:pride-and-prejudice",
+    "SizeBytes": 24978543,
+    "Title": "Pride and Prejudice",
+    "Description": "Public-domain edition packaged for Book2Quiz."
+  }
 ]
