@@ -18,7 +18,7 @@
   "SizeBytes": 1123916,
   "Title": "Dracula",
   "Description": "Public-domain edition packaged for Book2Quiz."
-  }
+  },
   {
   "Sha256": "1ccf02d192f435cf58d344600461250d8d12e7ea54b917f85e015569952d0961",
   "Version": "1.0.0",
@@ -28,5 +28,5 @@
   "SizeBytes": 24978543,
   "Title": "Pride and Prejudice",
   "Description": "Public-domain edition packaged for Book2Quiz."
-}
+},
 ]
