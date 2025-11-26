@@ -234,7 +234,7 @@ We are not responsible for the privacy practices of external sites.
  **Opt out of personalized ads in Android settings**  
  **Remove all ads for $2.99 (one-time purchase)**  
  **No user accounts, no servers, no data breaches**  
- **GDPR compliant (EU/Czech Republic)**  
+ **GDPR compliant (EU)**  
 
 ---
 
