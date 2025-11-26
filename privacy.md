@@ -4,24 +4,21 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-_Last updated: January 19, 2025_
-
 ## AmpedUp - Privacy Policy
 
-**Developer:** benholland.net  
-**Contact:** info@benholland.net  
-**Website:** https://book2quiz.app
+**Contact:** info@electricguitargear.com
+**Website:** electricguitargear.com
 
 ---
 
 ### Summary
 
-- ? No account required
-- ?? **Google AdMob displays ads and collects device data** (Advertising ID, IP address, usage patterns)
-- ? Quiz progress stored locally on your device only
-- ? Optional telemetry (disabled by default, local-only)
-- ? You can opt out of personalized ads in Android settings
-- ? Remove all ads with one-time $2.99 purchase
+- No account required
+- **Google AdMob displays ads and collects device data** (Advertising ID, IP address, usage patterns)
+- Quiz progress stored locally on your device only
+- Optional telemetry (disabled by default, local-only)
+- You can opt out of personalized ads in Android settings
+- Remove all ads with one-time $2.99 purchase
 
 ---
 
@@ -29,9 +26,9 @@ _Last updated: January 19, 2025_
 
 ### 1.1 Information You Provide
 We do **not** collect any personal information directly from you:
-- ? No account creation required
-- ? No name, email, or contact information requested
-- ? No user-generated content collected
+-  No account creation required
+-  No name, email, or contact information requested
+-  No user-generated content collected
 
 ### 1.2 Information Collected Automatically
 
@@ -89,9 +86,9 @@ We may store minimal, anonymized crash logs locally on your device to help diagn
 ## 3. Information Sharing
 
 ### **We Do NOT:**
-- ? Sell your personal information
-- ? Share your quiz progress or data with third parties
-- ? Store your data on our servers (except AdMob as described)
+-  Sell your personal information
+-  Share your quiz progress or data with third parties
+-  Store your data on our servers (except AdMob as described)
 
 ### **Third-Party Services:**
 
@@ -113,11 +110,11 @@ We may store minimal, anonymized crash logs locally on your device to help diagn
 
 If you are in the European Union (including Czech Republic), you have the right to:
 
-- ? **Access:** Request what data we have (none, as we don't store personal data)
-- ? **Deletion:** Request data deletion (quiz progress can be reset in Settings)
-- ? **Opt-Out:** Disable personalized ads via Android settings
-- ? **Portability:** Export your data (quiz progress can be reset and retaken)
-- ? **Object:** Object to data processing (opt out of personalized ads)
+-  **Access:** Request what data we have (none, as we don't store personal data)
+-  **Deletion:** Request data deletion (quiz progress can be reset in Settings)
+-  **Opt-Out:** Disable personalized ads via Android settings
+-  **Portability:** Export your data (quiz progress can be reset and retaken)
+-  **Object:** Object to data processing (opt out of personalized ads)
 
 **To exercise these rights:**
 - **Quiz Progress:** Settings ? Reset Progress
@@ -158,25 +155,16 @@ If you believe a child under 13 has used the app, please contact us at info@benh
 
 ## 7. Changes to This Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted at:
-- **URL:** https://batmansunity.github.io/B2Qreleases/privacy/
-- **In-App:** Settings ? Privacy Policy
-
+We may update this Privacy Policy from time to time.
 Continued use of the app after changes constitutes acceptance of the updated policy.
-
-**Version History:**
-- **January 19, 2025:** Added Google AdMob disclosure
-- **November 2024:** Initial release
-
----
 
 ## 8. Your Choices
 
 ### **Personalized Ads:**
-**Opt Out:** Android Settings ? Google ? Ads ? Opt out of Ads Personalization
+**Opt Out:** Android Settings > Google > Ads > Opt out of Ads Personalization
 
 ### **Quiz Progress:**
-**Reset:** Settings ? Reset Progress
+**Reset:** Settings > Reset Progress
 
 ### **Remove Ads Entirely:**
 **Purchase:** Remove Ads for $2.99 (one-time, no subscription)
@@ -189,30 +177,23 @@ Continued use of the app after changes constitutes acceptance of the updated pol
 
 ## 9. Contact Us
 
-**Developer:** benholland.net  
-**Email:** info@benholland.net  
-**Website:** https://book2quiz.app  
-**Support:** In-app: Menu ? Support & Feedback
+**Email:** info@electricguitargear.com  
+**Website:** electricguitargear.com  
+**Support:** In-app: Menu > Support & Feedback
 
 ---
 
 ## 10. Data Protection Officer (GDPR)
 
-For EU users (including Czech Republic):
+For EU users
 
-**Data Controller:** benholland.net  
-**Email:** info@benholland.net  
-**Location:** Czech Republic
+**Email:** info@electricguitargear.com  
+**Website:** electricguitargear.com  
+**Support:** In-app: Menu > Support & Feedback
 
 ---
 
 ## 11. Third-Party Links
-
-AmpedUp contains links to:
-- Privacy Policy (this page)
-- Terms of Service: https://batmansunity.github.io/B2Qreleases/terms/
-- Book2Quiz website: https://book2quiz.app
-
 We are not responsible for the privacy practices of external sites.
 
 ---
@@ -247,13 +228,13 @@ We are not responsible for the privacy practices of external sites.
 
 ## Summary (TL;DR)
 
-? **We don't collect or store your personal data**  
-?? **Google AdMob shows ads and collects device/usage data**  
-? **Quiz progress stored locally only (never uploaded)**  
-? **Opt out of personalized ads in Android settings**  
-? **Remove all ads for $2.99 (one-time purchase)**  
-? **No user accounts, no servers, no data breaches**  
-? **GDPR compliant (EU/Czech Republic)**  
+ **We don't collect or store your personal data**  
+ **Google AdMob shows ads and collects device/usage data**  
+ **Quiz progress stored locally only (never uploaded)**  
+ **Opt out of personalized ads in Android settings**  
+ **Remove all ads for $2.99 (one-time purchase)**  
+ **No user accounts, no servers, no data breaches**  
+ **GDPR compliant (EU/Czech Republic)**  
 
 ---
 
@@ -265,5 +246,5 @@ We are not responsible for the privacy practices of external sites.
 ## Questions?
 
 If you have any questions about this Privacy Policy, please contact us:
-- **Email:** info@benholland.net
-- **In-App:** Menu ? Support & Feedback
+- **Email:** info@electricguitargear.com
+- **In-App:** Menu > Support & Feedback
