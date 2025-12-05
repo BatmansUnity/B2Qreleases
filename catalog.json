@@ -20,13 +20,13 @@
     "Description": "Public-domain edition packaged for Book2Quiz."
   },
   {
-  "Sha256": "c4baa5dd8ba9147b15e9d5d5599315a7fb1deb024da5712c0b11b56acd7353fc",
-  "Version": "1.0.0",
-  "Author": "Jane Austen",
-  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Pride-and-Prejudice-v1.b2q",
-  "Id": "urn:b2q:book:pride-and-prejudice",
-  "SizeBytes": 25204806,
-  "Title": "Pride and Prejudice",
-  "Description": "Public-domain edition packaged for Book2Quiz."
+    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Pride-and-Prejudice-v1.b2q",
+    "Version": "1.0.0",
+    "SizeBytes": 25204764,
+    "Title": "Pride and Prejudice",
+    "Description": "Public-domain edition packaged for Book2Quiz.",
+    "Id": "urn:b2q:book:pride-and-prejudice",
+    "Author": "Jane Austen",
+    "Sha256": "560c00e3dd8bc60bcf1e171c3f9e229acf96d0807cd4689f525f9dd105300b03"
   }
 ]
