@@ -20,6 +20,16 @@
     "Description": "Public-domain edition packaged for Book2Quiz."
   },
   {
+  "Sha256": "20ef23f774f5aadad62fb7b3102e211d07680153814d28d304415bc3211ae326",
+  "Version": "1.0.0",
+  "Author": "Emily Brontë",
+  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Wuthering-Heights-v1.b2q",
+  "Id": "urn:b2q:book:wuthering-heights",
+  "SizeBytes": 396687,
+  "Title": "Wuthering Heights",
+  "Description": "Public-domain edition packaged for Book2Quiz."
+},
+  {
     "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Pride-and-Prejudice-v1.b2q",
     "Version": "1.0.0",
     "SizeBytes": 25204764,
