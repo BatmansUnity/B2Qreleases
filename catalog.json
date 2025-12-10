@@ -9,6 +9,16 @@
     "Title": "Romeo and Juliet",
     "Description": "Public-domain edition packaged for Book2Quiz."
   },
+    {
+    "Sha256": "920d4d03755595ae6c9fb9e109580107d75b0d4843df2aaddd4137ab9300b623",
+    "Version": "1.0.0",
+    "Author": "William Shakespeare",
+    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Hamlet-v1.b2q",
+    "Id": "urn:b2q:book:hamlet",
+    "SizeBytes": 544434,
+    "Title": "Hamlet",
+    "Description": "Public-domain edition packaged for Book2Quiz."
+  },
   {
     "Sha256": "18cb499513095717dbf6f394f662b66b56dd8cb71fee5cf7657937eb0ddd1b7f",
     "Version": "1.0.0",
