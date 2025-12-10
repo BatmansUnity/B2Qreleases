@@ -20,6 +20,16 @@
     "Description": "Public-domain edition packaged for Book2Quiz."
   },
   {
+  "Sha256": "0be6f4db5e9ca5195575cb52bbbf02d6d9650065bad5b7ea04e943eb51f092c2",
+  "Version": "1.0.0",
+  "Author": "John Milton",
+  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Paradise-Lost-v1.b2q",
+  "Id": "urn:b2q:book:paradise-lost",
+  "SizeBytes": 268448,
+  "Title": "Paradise Lost",
+  "Description": "Public-domain edition packaged for Book2Quiz."
+},
+  {
   "Sha256": "20ef23f774f5aadad62fb7b3102e211d07680153814d28d304415bc3211ae326",
   "Version": "1.0.0",
   "Author": "Emily Brontë",
