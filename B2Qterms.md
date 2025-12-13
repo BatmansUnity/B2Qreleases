@@ -55,4 +55,4 @@ We may suspend or terminate access to the Service at any time if you violate the
 
 ---
 
-<small>© {{ site.time | date: "%Y" }} {{"Book2Quiz"}}. All rights reserved.</small>
+<small>©2025. All rights reserved.</small>
