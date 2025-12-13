@@ -4,7 +4,7 @@ title: Terms & Conditions
 permalink: /terms/
 ---
 
-_Last updated: {{ site.time | date: "%B %d, %Y" }}_
+_Last updated: 12 December 2025_
 
 Welcome to **Book2Quiz**. By downloading, installing, or using the app (the “Service”), you agree to these Terms & Conditions (the “Terms”). If you do not agree, please do not use the Service.
 
