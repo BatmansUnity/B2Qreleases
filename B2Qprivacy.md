@@ -1,137 +1,40 @@
-## Book2Quiz Privacy Policy
+# Book2Quiz Terms & Conditions
 
-**App name:** Book2Quiz (“B2Q”)  
-**Contact:** info@benholland.net  
+Last updated: 12 December 2025
 
-**Effective Date:** 12 December 2025  
-**Version:** 1.0  
+Welcome to **Book2Quiz**. By downloading, installing, or using the app (the “Service”), you agree to these Terms & Conditions (the “Terms”). If you do not agree, please do not use the Service.
 
-This Privacy Policy explains how Book2Quiz handles information when you use the app.
+## 1) Use of the App
+- The Service is provided for personal, non-commercial use.
+- You agree not to reverse-engineer, modify, copy, or redistribute the app or its content except as permitted by law.
+- You will not use the Service for unlawful activity or to disrupt, overload, or interfere with its operation.
 
----
+## 2) Content & Intellectual Property
+The app, its software, design, quiz questions, and other materials are owned by **Book2Quiz** or its licensors and are protected by applicable laws. No rights are granted except as needed to use the app as intended.
 
-## Summary
+## 3) Purchases & Subscriptions
+- Certain features or content may require a one-time purchase or subscription.
+- Payments and receipts are handled by the app store (for example, Google Play). Any refunds are subject to the app store’s policies.
+- Taxes and fees may apply where required by law.
 
-- **No account required.**
-- **Reading/quiz progress is stored locally on your device** (not on our servers).
-- **Ads (if enabled) are provided by Google AdMob**, which may collect device and usage data for ad delivery and measurement.
-- **Optional diagnostics/telemetry is local-only** (disabled by default) and can be cleared in the app.
-- **Purchases (if offered) are processed by Google Play Billing / Google Payments.** We do not receive your full payment card details, but Google may share limited purchase-related information necessary to provide the entitlement.
-- You can **opt out of personalized ads** via Android/Google settings (exact menus vary by Android version).
+## 4) Privacy
+Your use of the Service is also governed by the in-app Privacy Policy.
 
----
+## 5) Third-Party Services
+The Service may include links to or rely on third-party services (for example, app store billing). We are not responsible for third-party content, policies, or practices.
 
-## 1. Information We Collect
+## 6) Disclaimers
+- The Service is provided **“as is”** and **“as available”** without warranties of any kind.
+- We do not guarantee that content is error-free or that the Service will be uninterrupted or secure.
 
-### 1.1 Information You Provide
-Book2Quiz does not require registration and does not ask you to submit personal information such as your name, email address, or profile details.
+## 7) Limitation of Liability
+To the fullest extent permitted by law, **Book2Quiz** will not be liable for indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, arising from your use of the Service.
 
-### 1.2 Information Collected Automatically
+## 8) Indemnity
+You agree to indemnify and hold **Book2Quiz** harmless from claims, damages, liabilities, and expenses arising out of your misuse of the Service or breach of these Terms.
 
-#### A) Reading & Quiz Progress (Local Only)
-Book2Quiz stores certain data **only on your device**, such as:
-- last-read chapter/section
-- quiz attempts and scores
-- settings (for example, the diagnostics/telemetry toggle)
+## 9) Changes to the Service or Terms
+We may update the Service and these Terms from time to time. Continued use of the Service after changes become effective constitutes acceptance of the updated Terms.
 
-This data is used only to provide app features (resume reading, show progress, show results). It is **not uploaded to our servers**.
-
-#### B) Advertising Data (Third-Party – Google AdMob, if ads are enabled)
-If the app shows ads, it uses Google AdMob / Google Mobile Ads SDK. Google may collect information such as:
-- IP address (which may be used to estimate general location)
-- user interactions (for example, ad views/clicks and interactions relevant to ads)
-- diagnostic information (for example, crash/performance signals related to the SDK)
-- device identifiers (including Advertising ID where available/allowed)
-
-Google’s processing is governed by Google’s Privacy Policy:
-- https://policies.google.com/privacy
-
-#### C) Downloads of Book Content (If the app offers a catalog / downloads)
-If you download `.b2q` book bundles, the app will connect to the hosting provider you use (for example, a CDN or GitHub-hosted files). That host will typically receive standard network data (for example, your IP address and basic request metadata) as part of delivering the file.
-
-#### D) Optional Diagnostics / Telemetry (Local-Only)
-If enabled in Settings, Book2Quiz may store minimal diagnostic logs **locally on your device** to help identify issues, such as:
-- app version
-- device model / OS version
-- error messages and stack traces
-
-These logs are **not transmitted to our servers by default**, and you can disable and clear them in-app.
-
----
-
-## 2. How We Use Information
-
-- **Local progress data:** to provide resume, progress, and results features.
-- **Ads (AdMob):** to display ads, measure performance, reduce fraud/abuse, and support the free tier.
-- **Local diagnostics (optional):** to improve stability and troubleshoot issues on-device.
-
----
-
-## 3. Sharing of Information
-
-We do not sell your personal information.
-
-We share information only in the following cases:
-
-### 3.1 Google AdMob (Advertising)
-If ads are enabled, AdMob collects and processes data as described above.
-
-### 3.2 Google Play Billing / Google Payments (Purchases, if offered)
-If you purchase a paid tier (for example, “Forever Unlock” or a subscription, if present), purchases are handled by Google Play. Google may share certain personal or transaction information with the developer you purchase from, and provides us purchase confirmation/entitlement signals (for example, order identifiers / purchase tokens) needed to unlock features. We do not receive your full payment card details.
-
----
-
-## 4. Your Choices and Controls
-
-### 4.1 Personalized Ads Controls
-You can limit ad personalization through Android/Google settings (menus vary by Android version). Common paths include:
-- Android: **Settings → Privacy → Ads →** “Opt out of Ads Personalisation” (or similar)
-- Google Ads settings: https://adssettings.google.com/
-
-### 4.2 Reset or Clear Local Data
-You can reset progress and/or clear diagnostic logs from within the app (where provided). Uninstalling the app also removes locally stored app data.
-
----
-
-## 5. Legal Bases (GDPR / EEA / UK)
-Where GDPR applies:
-- **Local progress/settings** are processed to perform the app’s core functionality (performance of a contract and/or legitimate interests, depending on context).
-- **Advertising (AdMob)** is processed by Google under its own terms and may rely on consent or other lawful bases depending on region and configuration.
-- **Purchases (Google Play Billing)** are processed to complete transactions and provide entitlements.
-
----
-
-## 6. Data Retention
-
-- **Local progress & settings:** retained on your device until you reset them, clear app data, or uninstall.
-- **Local diagnostics (if enabled):** retained on your device until cleared.
-
-Third-party retention (for example, AdMob/Google) is governed by Google’s policies.
-
----
-
-## 7. Data Security
-
-- Local data is stored in the app’s private storage area on your device and is protected by the device’s security model.
-- Third-party services (Google) use industry-standard protections; see Google’s policies for details:
-  - https://policies.google.com/privacy
-
----
-
-## 8. Children’s Privacy
-Book2Quiz is not directed to children under 13, and we do not knowingly collect personal information from children. If you believe a child has provided personal information, contact us and we will take appropriate steps.
-
----
-
-## 9. Third-Party Links
-The app may include links to external sites (for example, publisher pages, references, or policies). We are not responsible for the privacy practices of external sites.
-
----
-
-## 10. Changes to This Policy
-We may update this Privacy Policy from time to time. The “Effective Date” above will reflect the latest version. Continued use of the app after an update means you accept the revised policy.
-
----
-
-## 11. Contact
-For privacy questions or requests, contact: **info@benholland.net**
+## 10) Termination
+We may suspend or terminate access to the Service at any time if you violate these Terms or if we discontinue the Service.
