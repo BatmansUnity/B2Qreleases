@@ -29,6 +29,16 @@
     "Title": "Hamlet",
     "Description": "Public-domain edition packaged for Book2Quiz."
   },
+    {
+    "Sha256": "1ed71ddb738c76f2ef3bd97e48afa355d81767274c121febc009d5cbdea1019a",
+    "Version": "1.0.0",
+    "Author": "William Shakespeare",
+    "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/Othello-v1.b2q",
+    "Id": "urn:b2q:book:othello",
+    "SizeBytes": 491700,
+    "Title": "Othello",
+    "Description": "Public-domain edition packaged for Book2Quiz."
+  },
   {
     "Sha256": "18cb499513095717dbf6f394f662b66b56dd8cb71fee5cf7657937eb0ddd1b7f",
     "Version": "1.0.0",
