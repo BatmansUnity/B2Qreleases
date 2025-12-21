@@ -60,6 +60,16 @@
   "Description": "Public-domain edition packaged for Book2Quiz."
 },
   {
+  "Sha256": "32e8a650f797e4523a064e00e37708896a924be97dd5c066a5730f9d893fdfb3",
+  "Version": "1.0.0",
+  "Author": "Homer",
+  "DownloadUrl": "https://raw.githubusercontent.com/BatmansUnity/B2Qreleases/main/The-Odyssey-v1.b2q",
+  "Id": "urn:b2q:book:the-odyssey",
+  "SizeBytes": 353759,
+  "Title": "The Odyssey",
+  "Description": "Public-domain edition packaged for Book2Quiz."
+},
+  {
   "Sha256": "20ef23f774f5aadad62fb7b3102e211d07680153814d28d304415bc3211ae326",
   "Version": "1.0.0",
   "Author": "Emily Brontë",
